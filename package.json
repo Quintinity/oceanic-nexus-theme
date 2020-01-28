@@ -1,0 +1,24 @@
+{
+  "name": "oceanic-nexus-theme",
+  "displayName": "Oceanic Nexus",
+  "version": "1.0.0",
+  "description": "A customized version of the Oceanic Next color theme",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oceanic Nexus",
+        "uiTheme": "vs-dark",
+        "path": "./oceanic-nexus.json"
+      }
+    ]
+  },
+  "author": "Vlad Marica",
+  "publisher": "vladmarica",
+  "license": "MIT"
+}
